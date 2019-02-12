@@ -1,0 +1,49 @@
+<html>
+	<head>
+		<title>the title attribute example</title>
+	</head>
+	<body>
+		<p>simple image inser</p>
+		<img src="/home/section1/2016cse024/index.png">
+		<h3 title="hello html">Titled Heading Tag Example</h3>
+		<DL>
+		<dt>HTML</dt>
+		<dd>Hyper Text Markup Language</dd>
+		<dt>dog</dt>
+		<dd>A humans best friends</dd>
+		</DL>
+		<ul type="circle">
+		<li>list item</li>
+		<li>list item</li>
+		<ol type ="i" start="3">
+		<li>list item..</li>
+		<li>list item..</li>
+		<li>list item..</li>
+		<li>list item..</li>
+		<li>list item..</li>
+		</ol>
+		<li>list item</li>
+		</ul>
+		<table border="3" cellpadding="12" bgcolor="cyan" width="770" cellspacing="10">
+		<tr>
+		<th bgcolor="orange">Column 1 header</th>
+		<th bgcolor="orange">Column 2 header</th>
+		</tr>
+		<tr>
+		<td>anju</td>
+		<td>susu</td>
+		</tr>
+		<tr>
+		<td>pooja</td>
+		<td>uma</td>
+		</tr>
+		<caption>"tabel"</caption>
+		</table>
+		<A href="http://www.yahoo.com">here</A>
+		<html>
+		<p> 
+		<img src="smiley.gif"alt="smiley face"
+		style="float:right;width:42px;height:42px;">
+		the image will float to the right of the text</p>
+	</body>
+</html>
