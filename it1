@@ -13,17 +13,6 @@
 		<dd>A humans best friends</dd>
 		</DL>
 		<ul type="circle">
-		<li>list item</li>
-		<li>list item</li>
-		<ol type ="i" start="3">
-		<li>list item..</li>
-		<li>list item..</li>
-		<li>list item..</li>
-		<li>list item..</li>
-		<li>list item..</li>
-		<li>list item..</li>
-		</ol>
-		<li>list item</li>
 		</ul>
 		<table border="3" cellpadding="12" bgcolor="cyan" width="770" cellspacing="10">
 		<tr>
